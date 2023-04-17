@@ -1,0 +1,10 @@
+C:\Janßen\01_EVA_KP\04_KP_Einstandspreis\bin\Debug\04_KP_Einstandspreis.exe.config
+C:\Janßen\01_EVA_KP\04_KP_Einstandspreis\bin\Debug\04_KP_Einstandspreis.exe
+C:\Janßen\01_EVA_KP\04_KP_Einstandspreis\bin\Debug\04_KP_Einstandspreis.pdb
+C:\Janßen\01_EVA_KP\04_KP_Einstandspreis\obj\Debug\04_KP_Einstandspreis.csproj.AssemblyReference.cache
+C:\Janßen\01_EVA_KP\04_KP_Einstandspreis\obj\Debug\_04_KP_Einstandspreis.Form1.resources
+C:\Janßen\01_EVA_KP\04_KP_Einstandspreis\obj\Debug\_04_KP_Einstandspreis.Properties.Resources.resources
+C:\Janßen\01_EVA_KP\04_KP_Einstandspreis\obj\Debug\04_KP_Einstandspreis.csproj.GenerateResource.cache
+C:\Janßen\01_EVA_KP\04_KP_Einstandspreis\obj\Debug\04_KP_Einstandspreis.csproj.CoreCompileInputs.cache
+C:\Janßen\01_EVA_KP\04_KP_Einstandspreis\obj\Debug\04_KP_Einstandspreis.exe
+C:\Janßen\01_EVA_KP\04_KP_Einstandspreis\obj\Debug\04_KP_Einstandspreis.pdb

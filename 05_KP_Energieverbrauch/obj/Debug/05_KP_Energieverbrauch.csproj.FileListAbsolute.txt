@@ -1,0 +1,10 @@
+C:\Janßen\01_EVA_KP\05_KP_Energieverbrauch\bin\Debug\05_KP_Energieverbrauch.exe.config
+C:\Janßen\01_EVA_KP\05_KP_Energieverbrauch\bin\Debug\05_KP_Energieverbrauch.exe
+C:\Janßen\01_EVA_KP\05_KP_Energieverbrauch\bin\Debug\05_KP_Energieverbrauch.pdb
+C:\Janßen\01_EVA_KP\05_KP_Energieverbrauch\obj\Debug\05_KP_Energieverbrauch.csproj.AssemblyReference.cache
+C:\Janßen\01_EVA_KP\05_KP_Energieverbrauch\obj\Debug\_05_KP_Energieverbrauch.Form1.resources
+C:\Janßen\01_EVA_KP\05_KP_Energieverbrauch\obj\Debug\_05_KP_Energieverbrauch.Properties.Resources.resources
+C:\Janßen\01_EVA_KP\05_KP_Energieverbrauch\obj\Debug\05_KP_Energieverbrauch.csproj.GenerateResource.cache
+C:\Janßen\01_EVA_KP\05_KP_Energieverbrauch\obj\Debug\05_KP_Energieverbrauch.csproj.CoreCompileInputs.cache
+C:\Janßen\01_EVA_KP\05_KP_Energieverbrauch\obj\Debug\05_KP_Energieverbrauch.exe
+C:\Janßen\01_EVA_KP\05_KP_Energieverbrauch\obj\Debug\05_KP_Energieverbrauch.pdb
