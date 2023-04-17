@@ -1,0 +1,9 @@
+C:\Janßen\01_EVA_KP\02_KP_Umsatzsteuer\bin\Debug\02_KP_Umsatzsteuer.exe.config
+C:\Janßen\01_EVA_KP\02_KP_Umsatzsteuer\bin\Debug\02_KP_Umsatzsteuer.exe
+C:\Janßen\01_EVA_KP\02_KP_Umsatzsteuer\bin\Debug\02_KP_Umsatzsteuer.pdb
+C:\Janßen\01_EVA_KP\02_KP_Umsatzsteuer\obj\Debug\_02_KP_Umsatzsteuer.Form1.resources
+C:\Janßen\01_EVA_KP\02_KP_Umsatzsteuer\obj\Debug\_02_KP_Umsatzsteuer.Properties.Resources.resources
+C:\Janßen\01_EVA_KP\02_KP_Umsatzsteuer\obj\Debug\02_KP_Umsatzsteuer.csproj.GenerateResource.cache
+C:\Janßen\01_EVA_KP\02_KP_Umsatzsteuer\obj\Debug\02_KP_Umsatzsteuer.csproj.CoreCompileInputs.cache
+C:\Janßen\01_EVA_KP\02_KP_Umsatzsteuer\obj\Debug\02_KP_Umsatzsteuer.exe
+C:\Janßen\01_EVA_KP\02_KP_Umsatzsteuer\obj\Debug\02_KP_Umsatzsteuer.pdb
