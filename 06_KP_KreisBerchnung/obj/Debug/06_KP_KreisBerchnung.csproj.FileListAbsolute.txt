@@ -1,0 +1,9 @@
+C:\Janßen\01_EVA_KP\06_KP_KreisBerchnung\bin\Debug\06_KP_KreisBerchnung.exe.config
+C:\Janßen\01_EVA_KP\06_KP_KreisBerchnung\bin\Debug\06_KP_KreisBerchnung.exe
+C:\Janßen\01_EVA_KP\06_KP_KreisBerchnung\bin\Debug\06_KP_KreisBerchnung.pdb
+C:\Janßen\01_EVA_KP\06_KP_KreisBerchnung\obj\Debug\_06_KP_KreisBerchnung.Form1.resources
+C:\Janßen\01_EVA_KP\06_KP_KreisBerchnung\obj\Debug\_06_KP_KreisBerchnung.Properties.Resources.resources
+C:\Janßen\01_EVA_KP\06_KP_KreisBerchnung\obj\Debug\06_KP_KreisBerchnung.csproj.GenerateResource.cache
+C:\Janßen\01_EVA_KP\06_KP_KreisBerchnung\obj\Debug\06_KP_KreisBerchnung.csproj.CoreCompileInputs.cache
+C:\Janßen\01_EVA_KP\06_KP_KreisBerchnung\obj\Debug\06_KP_KreisBerchnung.exe
+C:\Janßen\01_EVA_KP\06_KP_KreisBerchnung\obj\Debug\06_KP_KreisBerchnung.pdb
